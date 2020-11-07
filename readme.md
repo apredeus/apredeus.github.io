@@ -1,5 +1,7 @@
-## Project Description
+## Random bits of NGS bioinformatics 
 
-* [live example](https://learning-zone.github.io/website-templates/startbootstrap-clean-blog-1.0.2)
+[Alexander Predeus](https://www.researchgate.net/profile/Alexander_Predeus) (c) 2020
 
-![alt text](https://github.com/learning-zone/website-templates/blob/master/assets/startbootstrap-clean-blog-1.0.2.png "startbootstrap-clean-blog-1.0.2")
+This is an eclectic blog about various problems and solutions that I encounter during my career in NGS bioinformatics. All opinions are personal and thus biased. 
+
+Template is borrowed from [Learning Zone's website templates](https://github.com/learning-zone/website-templates).
